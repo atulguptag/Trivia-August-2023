@@ -60,9 +60,13 @@ bq mk lake
 
 ```cmd
 docker run -it -e PROJECT=$PROJECT -v $(pwd)/dataflow-python-examples:/dataflow python:3.7 /bin/bash
+```
 
+```
 pip install apache-beam[gcp]==2.24.0
+```
 
+```
 cd dataflow/
 ```
 
