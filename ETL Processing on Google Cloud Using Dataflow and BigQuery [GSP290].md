@@ -120,3 +120,4 @@ python dataflow_python_examples/data_lake_to_mart.py \
   --region=$REGION
 ```
 
+# Congratulations🎉! You're all done with this lab.
